@@ -1,0 +1,67 @@
+# Agricultural-Analytics
+Agricultural data analysis project using SQL and Power BI
+# 🌾 Agricultural Analytics
+
+## 📌 Project Overview
+
+Agricultural Analytics is a data analysis project that analyzes crop production, farmer information, sales, yield, and agricultural performance using **SQL and Power BI**.
+
+The goal of this project is to transform agricultural data into useful business insights that can help understand production, sales, crop performance, and farmer-level information.
+
+## 🛠️ Tools & Technologies
+
+* SQL Server
+* SQL
+* Power BI
+* DAX
+* Power Query
+
+## 📊 Dataset
+
+The project contains data related to:
+
+* Crops
+* Farmers
+* Production
+* Sales
+
+## 🔍 SQL Analysis
+
+SQL was used to:
+
+* Analyze crop production
+* Calculate sales and revenue
+* Analyze farmer and village-level data
+* Compare crop performance
+* Calculate agricultural KPIs
+* Use joins, subqueries, aggregate functions, and window functions
+
+## 📈 Power BI Dashboard
+
+Power BI was used to create interactive visualizations for:
+
+* Crop Production
+* Sales Performance
+* Yield Analysis
+* Farmer Analysis
+* Crop-wise performance
+
+## 💡 Key Insights
+
+The analysis helps identify:
+
+* High-performing crops
+* Production trends
+* Sales performance
+* Yield patterns
+* Differences between farmers and locations
+
+## 🎯 Project Objective
+
+The main objective is to demonstrate practical skills in **SQL, Power BI, data analysis, data visualization, and business intelligence**.
+
+## 👨‍💻 Author
+
+**Chandra Sekhar**
+
+Aspiring Data Analyst
